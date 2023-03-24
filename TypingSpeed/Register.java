@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Register {
  public static void main(String[] args) {
-    String name, email, password;
+    String name;String email; String password;
     Scanner sc = new Scanner(System.in);
     System.out.print("Please enter your name: ");
     name = sc.nextLine();
