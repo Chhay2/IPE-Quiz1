@@ -10,7 +10,7 @@ public class AboutUs {
     - Register page
     - Reset password
     - User typing test
-    - ResultList
+    - Result List
     - Read Menu
     ------------------------------------------
     Our collaborator are:
